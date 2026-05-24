@@ -7,8 +7,13 @@ StockFlow es una aplicación web para administrar productos, categorías y stock
 ---
 
 ## Captura
+Español
+<img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/1d92c3bc-ba76-4e2b-8176-7add0da1f25f" />
 
-_Próximamente_
+English 
+<img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/4612b203-fd62-45d3-bcb9-e2eafff36cc6" />
+
+
 
 ---
 
